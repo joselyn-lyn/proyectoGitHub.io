@@ -1,0 +1,163 @@
+*{
+    border: 0px;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: rgb(238, 129, 129);
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    padding: 20px 61px;
+    border: 1px solid rgb(107, 2, 2);
+    background-color: rgb(255, 0, 0);
+}
+
+a{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+li:hover{
+    background-color: rgb(253, 132, 132);
+    
+}
+
+a:hover{
+    color:rgb(87, 5, 5);
+}
+
+table{
+    background-color: white;
+}
+
+footer{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    height: 75px;
+    color: white;
+    font-size: 15px;    
+}
+
+.texto{
+    text-align: justify;
+    padding: 20px;
+    
+}*{
+    border: 0px;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    padding: 20px 61px;
+    border: 1px solid rgb(87, 17, 5);
+    background-color: blue;
+}
+
+a{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+li:hover{
+    background-color: rgb(245, 100, 100);
+    
+}
+
+a:hover{
+    color:rgb(87, 5, 5);
+}
+
+table{
+    background-color: white;
+}
+
+footer{
+    background-color: blue;
+    text-align: center;
+    height: 75px;
+    color: white;
+    font-size: 15px;    
+}
+
+.texto{
+    text-align: justify;
+    padding: 20px;
+    
+}*{
+    border: 0px;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: rgb(253, 54, 54);
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    padding: 20px 61px;
+    border: 1px solid rgb(107, 10, 10);
+    background-color: rgb(241, 6, 6);
+}
+
+a{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: Lobster, cursive
+}
+
+
+li:hover{
+    background-color: rgb(247, 87, 87);
+    
+}
+
+a:hover{
+    color:rgb(109, 24, 3);
+}
+
+table{
+    background-color: white;
+}
+
+footer{
+    background-color: rgb(241, 6, 6);
+    text-align: center;
+    height: 75px;
+    color: white;
+    font-size: 15px;    
+}
+
+.texto{
+    text-align: justify;
+    padding: 20px;
+    
+}
